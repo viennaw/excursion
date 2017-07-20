@@ -1,4 +1,32 @@
 body{
     font-family: Verdana;
-    font-weight: strong;
+    text-align: center;
+    background-color: black;
 }
+
+.heading{
+  font-size: 50px;
+  color: White;
+}
+
+.downloadlink{
+  font-size: 16px;
+  color: Aquamarine;
+}
+
+.travelguide , .comingsoon{
+  font-size: 42px;
+  color: White;
+  font-weight: 300;
+}
+
+p{
+  font-size: 21px;
+  color: Gray;
+}
+
+.copyright{
+  text-align: right;
+  color: Gray;
+}
+
